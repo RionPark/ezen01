@@ -7,7 +7,7 @@ public class DataType4 {
 		bl = false;
 		System.out.println(1==1);
 		bl = 1==1;
-		
+
 		short s = 1;
 		
 	}
