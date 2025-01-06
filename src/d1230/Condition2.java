@@ -11,7 +11,9 @@ public class Condition2 {
 			System.out.println("10대구나");
 		}else if(age<40) {
 			System.out.println("20대구나");
-		}else if(age<40) {
+		}
+		
+		if(age<40) {
 			System.out.println("30대구나");
 		}else {
 			System.out.println("먹을만큼 먹었꾸나");

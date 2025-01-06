@@ -9,6 +9,11 @@ public class Scope1 {
 		
 //		String i; 변수는 어떤영역에서 선언되면 그 영역이 끝날때가지 같은 변수명으로 다시 선언할 수 없다.
 		
+		if(1==1) {
+			int str = 1;
+		}
+
+		String str = "123";
 	}
 
 }

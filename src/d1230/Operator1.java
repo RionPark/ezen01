@@ -19,5 +19,9 @@ public class Operator1 {
 		
 		result = num1 % num2;
 		System.out.println(result);
+		
+		System.out.println(5/2);
+		System.out.println(5%2);
+		
 	}
 }

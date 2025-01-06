@@ -13,7 +13,7 @@ public class Operator2 {
 		
 		num--;
 		--num;
-		num -= 10;
+		num -= 1;
 		num = num - 1;
 		System.out.println(--num);
 	}
