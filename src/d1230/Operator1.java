@@ -23,5 +23,10 @@ public class Operator1 {
 		System.out.println(5/2);
 		System.out.println(5%2);
 		
+		double db = 0;
+		System.out.println(db);//0.0
+		
+		System.out.println(1*2.0);
+		float f = 1;
 	}
 }

@@ -12,7 +12,6 @@ public class Condition2 {
 		}else if(age<40) {
 			System.out.println("20대구나");
 		}
-		
 		if(age<40) {
 			System.out.println("30대구나");
 		}else {

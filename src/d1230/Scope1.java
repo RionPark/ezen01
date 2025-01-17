@@ -14,6 +14,10 @@ public class Scope1 {
 		}
 
 		String str = "123";
+		
+		for(;i<10;i++) {
+			
+		}
 	}
 
 }

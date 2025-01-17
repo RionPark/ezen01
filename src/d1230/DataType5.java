@@ -9,5 +9,6 @@ public class DataType5 {
 		System.out.println(str);
 		str = str + 1;
 		System.out.println(str);
+		System.out.println("1" + 1);
 	}
 }
